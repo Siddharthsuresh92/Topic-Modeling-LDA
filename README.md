@@ -14,3 +14,5 @@ There are two datasets used in the analysis:
 2. Corpus with wine reviews (each having a full description of about 3-4 sentences) and a total of 118k such reviews
 
 Hope this helps anyone looking to learn topic modeling using LDA.
+
+Note: All you would need to run this on your system is the jupyter notebook, the .csv files and the libraries mentioned in the jupyte notebook. Also, the model may take some time to run and depends on your pesonal computer, so be wary of that.
